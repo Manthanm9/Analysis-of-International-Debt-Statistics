@@ -1,9 +1,13 @@
-# Analysis of International Debt Statistics
-In this project, I used SQL queries to answer important questions regarding international debt by analysing the World Bank debt dataset. The dataset provides figures on the amount of debt (in USD) owing by developing nations in several categories from 1970 to 2015. This analysis can be used to address problems such as:
+# Analyzing International Debt Data 🌍💰
 
-1.What is the total amount of debt that is owed by the countries listed in the dataset?
-2.Which country owns the maximum amount of debt and what does that amount look like?
-3.What is the average amount of debt owed by countries across different debt indicators?
+In this project, we aim to analyze international debt data collected by The World Bank 🏛️. The dataset provides information about the amount of debt (in USD) owed by developing countries across various debt indicators. Through our analysis, we will answer several key questions related to international debt:
 
-## About Data Source:
-The International Debt Statistics (IDS) is a database developed and maintained by the World Bank that provides a comprehensive overview of external debt and financial flows of developing countries. The database covers more than 200 countries and territories.
+**Total Amount of Debt 💸:** We will calculate the total amount of debt owed by all the countries listed in the dataset. This will give us an understanding of the overall state of the global economy concerning debt.
+
+**Country with Maximum Debt 🏆:** We will identify the country that owns the maximum amount of debt and determine the corresponding debt amount. This will provide insights into the economic condition of that particular country.
+
+**Average Debt Across Indicators 📊:** We will find the average amount of debt owed by countries for each debt indicator. This will help us understand the distribution of debt across different categories and indicators.
+
+**Distinct Countries 🌐:** We will extract the number of unique countries present in the dataset. This will give us an idea of the global reach of the debt data.
+
+Throughout the project, we will gain valuable insights into the international debt landscape and its impact on different countries and their economies. Let's dive into the data and discover fascinating patterns and trends! 🚀📈
